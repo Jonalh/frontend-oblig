@@ -1,0 +1,5 @@
+1. var demo = getElementByClassNames=("test");
+2. var unik = getElementById=("denne");
+3. document.getElementById=("home_href").href;
+4. document.getElementById("ntnu-search").value="Studier";
+5. document.querySelector("gmenuitem_1_2_Student_i_Gjøvik>a").click();
